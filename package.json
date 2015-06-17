@@ -1,0 +1,26 @@
+{
+  "name": "blog_system",
+  "version": "1.0.0",
+  "description": "This is our blog system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gordon-rawe/blog_system.git"
+  },
+  "keywords": [
+    "blog",
+    "system"
+  ],
+  "author": "gordon rawe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gordon-rawe/blog_system/issues"
+  },
+  "homepage": "https://github.com/gordon-rawe/blog_system#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
