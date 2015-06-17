@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/gordon-rawe/blog_system#readme",
   "dependencies": {
-    "express": "^4.12.4"
+    "express": "^4.12.4",
+    "redis": "^0.12.1"
   }
 }
