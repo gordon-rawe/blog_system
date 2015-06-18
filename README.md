@@ -13,3 +13,4 @@ This is a nodejs blog system created by us to share our blogs!
 ##### databse configuration
 1. redis data base has to be installed to gurantee the support of data savings.
 2. http://redis.io/download is the download link, try to use the latest version.
+3. the redis is just a service after installed, so start it in the service are of task manager.
