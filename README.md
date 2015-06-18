@@ -9,3 +9,7 @@ This is a nodejs blog system created by us to share our blogs!
 
 ##### further functions
 1. Users can browse the blog on android devices
+
+##### databse configuration
+1. redis data base has to be installed to gurantee the support of data savings.
+2. http://redis.io/download is the download link, try to use the latest version.
